@@ -17,3 +17,4 @@ git push -u origin update_logo
 gh pr create --base master --head update_logo --title "Update logo" --body "This pr updates the logo to the propell svg icon"
 gh pr list
 gh pr merge 1
+# REPO_URL https://github.com/mathewCodex/Blackbird-sim.git
